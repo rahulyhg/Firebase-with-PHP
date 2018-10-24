@@ -73,7 +73,7 @@ $users = new Users();
 
 // var_dump($users->delete(2));
 
-var_dump($users->insert(['2' => 'Les Paul'])); 
+var_dump($users->insert(['2' => 'Leo Fender'])); 
 
 // -------------------------------------------------------------[ NOTES ]--------------------------------------------------------------------
 
