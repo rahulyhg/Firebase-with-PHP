@@ -17,4 +17,5 @@ $firebase = (new Factory)
 
 $database = $firebase->getDatabase();
 
-die(print_r($database)); 
+// 10/24/18 - What does this do? Notice how it can be commented out like this. Firebase connection works just as well. 
+// die(print_r($database)); 
