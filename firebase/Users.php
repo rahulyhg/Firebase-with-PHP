@@ -59,7 +59,7 @@ class Users {
 
 $users = new Users(); 
 
-// Insert an array to firebase
+// Insert an array into a 'real-time database' in firebase
 
 // var_dump($users->insert([
 //     '1' => 'John', 

@@ -6,7 +6,7 @@ use Kreait\Firebase\Factory;
 use Kreait\Firebase\ServiceAccount;
 
 // This assumes that you have placed the Firebase credentials in the same directory
-// as this PHP file.
+// as this php file.
 $serviceAccount = ServiceAccount::fromJsonFile(__DIR__.'/secret/php-tutorial-efd9d-33598b7ecb95.json');
 
 // C:\xampp\htdocs\firebase\secret\php-tutorial-efd9d-33598b7ecb95.json
